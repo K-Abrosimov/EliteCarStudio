@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.elite_car_studion {
+    min-height: 100vh;
+    background: linear-gradient(180deg, #000 0%, rgba(31, 103, 170, 0.78) 25.52%, rgba(144, 39, 193, 0.86) 54.17%, #0B3053 99.98%, #0C3357 99.99%, #115EA6 100%);
+    padding: 41px 0 122px 0;
+}
+
+
+.top_title {
+    color: #FFF;
+    text-align: center;
+    font-family: Karantina;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.top_title span {
+    color: #FFB800;
+    font-family: Karantina;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+
+.middle_title {
+    color: #EB00FF;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.sub_title {
+    color: #FFF;
+    font-family: Karantina;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.sub_title span {
+    color: rgb(174, 1, 1);
+    background-color: #061c31;
+    font-family: Karantina;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.bg_image {
+    margin-top: 20px;
+    max-width: 100vw;
+}
+
+.sevice_include {
+    color: #FFB800;
+    font-family: Karantina;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.service_item {
+    min-width: 285px;
+
+}
+
+.service_title {
+    color: #FFF;
+    text-align: center;
+    font-family: Karantina;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    margin:30px;
+    background-color: #061c31;
+
+}
+
+.service_img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.service_descr {
+    color: #FFF;
+    text-align: center;
+    font-family: Karantina;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-top: 20px;
+}
+
+.contact{
+    text-align: center;
+    color: #FFF;
+font-family: Karantina;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 50px;
+}
+
+.contact span{
+    color: #FFB800;
+font-family: Karantina;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}

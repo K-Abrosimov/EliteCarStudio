@@ -60,8 +60,10 @@
 }
 
 .bg_image {
+    max-height: 15vw;
+    display: block;
+    margin: 0 auto;
     margin-top: 20px;
-    max-width: 90vw;
 }
 
 .sevice_include {
